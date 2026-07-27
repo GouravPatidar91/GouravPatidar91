@@ -1,0 +1,310 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="607" viewBox="0 0 1180 607" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Projects">
+<rect width="1180" height="607" fill="#0A101F"/>
+<defs>
+  <linearGradient id="acc_dark" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#7C3AED">
+      <animate attributeName="stop-color" values="#7C3AED;#22D3EE;#10B981;#7C3AED" dur="10s" repeatCount="indefinite"/>
+    </stop>
+    <stop offset="1" stop-color="#10B981">
+      <animate attributeName="stop-color" values="#10B981;#7C3AED;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/>
+    </stop>
+  </linearGradient>
+</defs>
+<text x="7" y="18" font-size="11" letter-spacing="2" fill="#22D3EE">PROJECTS.LIST</text>
+<text x="135" y="18" font-size="10" fill="#475569">./projects.sh --all</text>
+<line x1="5" y1="28" x2="1175" y2="28" stroke="url(#acc_dark)" stroke-width="1.5" opacity="0.7"/>
+
+<a href="https://github.com/GouravPatidar91/cybersaathi" target="_blank">
+  <g opacity="0" transform="translate(5,42)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/>
+    <rect width="578" height="168" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.28)">
+      <animate attributeName="stroke" values="rgba(34,211,238,0.22);rgba(34,211,238,0.5);rgba(34,211,238,0.22)" dur="4.5s" begin="0.25s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="578" height="30" rx="12" fill="#0B1222"/>
+    <rect y="18" width="578" height="12" fill="#0B1222"/>
+    <line x1="0" y1="30" x2="578" y2="30" stroke="rgba(255,255,255,0.08)"/>
+    <text x="16" y="19" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#8226;</tspan> GouravPatidar91/cybersaathi</text>
+    <circle cx="562" cy="15" r="3.5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="5s" begin="0.25s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <svg x="16" y="44" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      
+      <text x="68" y="60" font-size="15" font-weight="bold" fill="#F8FAFC">CyberSaathi<tspan fill="#22D3EE">_<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.6s" repeatCount="indefinite"/></tspan></text>
+      <text x="68" y="78" font-size="11" fill="#94A3B8">Women safety and cyber security platform</text>
+      
+      <g transform="translate(68, 104)">
+  <rect width="76" height="18" rx="9" fill="#1E293B"/>
+  <text x="38" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">TypeScript</text>
+</g>
+<g transform="translate(150, 104)">
+  <rect width="52" height="18" rx="9" fill="#1E293B"/>
+  <text x="26" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">NextJS</text>
+</g>
+<g transform="translate(208, 104)">
+  <rect width="64" height="18" rx="9" fill="#1E293B"/>
+  <text x="32" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">Tailwind</text>
+</g>
+      
+      <text x="68" y="145" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#9733;</tspan> 0<tspan fill="#475569" dx="14">updated 1mo ago</tspan></text>
+      
+      <circle cx="520" cy="90" r="27" fill="none" stroke="rgba(148,163,184,0.15)" stroke-width="9"/>
+            <circle cx="520" cy="90" r="27" fill="none" stroke="#3178c6" stroke-width="9" stroke-dasharray="137.41 32.23" stroke-dashoffset="0.00" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#f1e05a" stroke-width="9" stroke-dasharray="23.75 145.90" stroke-dashoffset="-137.41" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#563d7c" stroke-width="9" stroke-dasharray="8.48 161.16" stroke-dashoffset="-161.16" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.25s" fill="freeze"/></circle>
+      <text x="520" y="94" text-anchor="middle" font-size="11" font-weight="700" fill="#F8FAFC">81%</text>
+      
+            <circle cx="401" cy="68" r="3.5" fill="#3178c6"/>
+      <text x="410" y="72" font-size="10" fill="#94A3B8">TypeScript 81%</text>
+      <circle cx="401" cy="86" r="3.5" fill="#f1e05a"/>
+      <text x="410" y="90" font-size="10" fill="#94A3B8">JavaScript 14%</text>
+      <circle cx="401" cy="104" r="3.5" fill="#563d7c"/>
+      <text x="410" y="108" font-size="10" fill="#94A3B8">CSS 5%</text>
+    </g>
+  </g>
+</a>
+
+
+<a href="https://github.com/GouravPatidar91/Curezy-main" target="_blank">
+  <g opacity="0" transform="translate(597,42)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/>
+    <rect width="578" height="168" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.28)">
+      <animate attributeName="stroke" values="rgba(34,211,238,0.22);rgba(34,211,238,0.5);rgba(34,211,238,0.22)" dur="4.5s" begin="0.4s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="578" height="30" rx="12" fill="#0B1222"/>
+    <rect y="18" width="578" height="12" fill="#0B1222"/>
+    <line x1="0" y1="30" x2="578" y2="30" stroke="rgba(255,255,255,0.08)"/>
+    <text x="16" y="19" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#8226;</tspan> GouravPatidar91/Curezy-main</text>
+    <circle cx="562" cy="15" r="3.5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="5s" begin="0.4s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <svg x="16" y="44" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#10B981" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-4l-3 9L9 3l-3 9H2"/></svg>
+      
+      <text x="68" y="60" font-size="15" font-weight="bold" fill="#F8FAFC">Curezy<tspan fill="#22D3EE">_<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.75s" repeatCount="indefinite"/></tspan></text>
+      <text x="68" y="78" font-size="11" fill="#94A3B8">Advanced healthcare management platform</text>
+      
+      <g transform="translate(68, 104)">
+  <rect width="76" height="18" rx="9" fill="#1E293B"/>
+  <text x="38" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">TypeScript</text>
+</g>
+<g transform="translate(150, 104)">
+  <rect width="46" height="18" rx="9" fill="#1E293B"/>
+  <text x="23" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">React</text>
+</g>
+<g transform="translate(202, 104)">
+  <rect width="52" height="18" rx="9" fill="#1E293B"/>
+  <text x="26" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">NodeJS</text>
+</g>
+      
+      <text x="68" y="145" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#9733;</tspan> 0<tspan fill="#475569" dx="14">updated 3d ago</tspan></text>
+      
+      <circle cx="520" cy="90" r="27" fill="none" stroke="rgba(148,163,184,0.15)" stroke-width="9"/>
+            <circle cx="520" cy="90" r="27" fill="none" stroke="#3178c6" stroke-width="9" stroke-dasharray="127.23 42.41" stroke-dashoffset="0.00" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#f1e05a" stroke-width="9" stroke-dasharray="33.93 135.72" stroke-dashoffset="-127.23" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#e34c26" stroke-width="9" stroke-dasharray="8.48 161.16" stroke-dashoffset="-161.16" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.4s" fill="freeze"/></circle>
+      <text x="520" y="94" text-anchor="middle" font-size="11" font-weight="700" fill="#F8FAFC">75%</text>
+      
+            <circle cx="401" cy="68" r="3.5" fill="#3178c6"/>
+      <text x="410" y="72" font-size="10" fill="#94A3B8">TypeScript 75%</text>
+      <circle cx="401" cy="86" r="3.5" fill="#f1e05a"/>
+      <text x="410" y="90" font-size="10" fill="#94A3B8">JavaScript 20%</text>
+      <circle cx="401" cy="104" r="3.5" fill="#e34c26"/>
+      <text x="410" y="108" font-size="10" fill="#94A3B8">HTML 5%</text>
+    </g>
+  </g>
+</a>
+
+
+<a href="https://github.com/GouravPatidar91/campayn" target="_blank">
+  <g opacity="0" transform="translate(5,224)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/>
+    <rect width="578" height="168" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.28)">
+      <animate attributeName="stroke" values="rgba(34,211,238,0.22);rgba(34,211,238,0.5);rgba(34,211,238,0.22)" dur="4.5s" begin="0.55s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="578" height="30" rx="12" fill="#0B1222"/>
+    <rect y="18" width="578" height="12" fill="#0B1222"/>
+    <line x1="0" y1="30" x2="578" y2="30" stroke="rgba(255,255,255,0.08)"/>
+    <text x="16" y="19" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#8226;</tspan> GouravPatidar91/campayn</text>
+    <circle cx="562" cy="15" r="3.5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="5s" begin="0.55s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <svg x="16" y="44" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#F59E0B" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H2v6h4l5 4V5zM15.54 8.46a5 5 0 0 1 0 7.07M19.07 4.93a10 10 0 0 1 0 14.14"/></svg>
+      
+      <text x="68" y="60" font-size="15" font-weight="bold" fill="#F8FAFC">Campayn<tspan fill="#22D3EE">_<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="0.9s" repeatCount="indefinite"/></tspan></text>
+      <text x="68" y="78" font-size="11" fill="#94A3B8">Campaign management and analytics system</text>
+      
+      <g transform="translate(68, 104)">
+  <rect width="76" height="18" rx="9" fill="#1E293B"/>
+  <text x="38" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">TypeScript</text>
+</g>
+<g transform="translate(150, 104)">
+  <rect width="46" height="18" rx="9" fill="#1E293B"/>
+  <text x="23" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">React</text>
+</g>
+<g transform="translate(202, 104)">
+  <rect width="34" height="18" rx="9" fill="#1E293B"/>
+  <text x="17" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">CSS</text>
+</g>
+      
+      <text x="68" y="145" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#9733;</tspan> 0<tspan fill="#475569" dx="14">updated 2mo ago</tspan></text>
+      
+      <circle cx="520" cy="90" r="27" fill="none" stroke="rgba(148,163,184,0.15)" stroke-width="9"/>
+            <circle cx="520" cy="90" r="27" fill="none" stroke="#3178c6" stroke-width="9" stroke-dasharray="152.68 16.96" stroke-dashoffset="0.00" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#563d7c" stroke-width="9" stroke-dasharray="10.18 159.47" stroke-dashoffset="-152.68" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#e34c26" stroke-width="9" stroke-dasharray="6.79 162.86" stroke-dashoffset="-162.86" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.55s" fill="freeze"/></circle>
+      <text x="520" y="94" text-anchor="middle" font-size="11" font-weight="700" fill="#F8FAFC">90%</text>
+      
+            <circle cx="401" cy="68" r="3.5" fill="#3178c6"/>
+      <text x="410" y="72" font-size="10" fill="#94A3B8">TypeScript 90%</text>
+      <circle cx="401" cy="86" r="3.5" fill="#563d7c"/>
+      <text x="410" y="90" font-size="10" fill="#94A3B8">CSS 6%</text>
+      <circle cx="401" cy="104" r="3.5" fill="#e34c26"/>
+      <text x="410" y="108" font-size="10" fill="#94A3B8">HTML 4%</text>
+    </g>
+  </g>
+</a>
+
+
+<a href="https://github.com/GouravPatidar91/curezy-ai" target="_blank">
+  <g opacity="0" transform="translate(597,224)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/>
+    <rect width="578" height="168" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.28)">
+      <animate attributeName="stroke" values="rgba(34,211,238,0.22);rgba(34,211,238,0.5);rgba(34,211,238,0.22)" dur="4.5s" begin="0.7s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="578" height="30" rx="12" fill="#0B1222"/>
+    <rect y="18" width="578" height="12" fill="#0B1222"/>
+    <line x1="0" y1="30" x2="578" y2="30" stroke="rgba(255,255,255,0.08)"/>
+    <text x="16" y="19" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#8226;</tspan> GouravPatidar91/curezy-ai</text>
+    <circle cx="562" cy="15" r="3.5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="5s" begin="0.7s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <svg x="16" y="44" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#A78BFA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9.5 2A2.5 2.5 0 0 1 12 4.5v15a2.5 2.5 0 0 1-4.96-.44 2.5 2.5 0 0 1 0-3.12 3 3 0 0 1 0-4.88 2.5 2.5 0 0 1 0-3.12A2.5 2.5 0 0 1 9.5 2zM14.5 2A2.5 2.5 0 0 0 12 4.5v15a2.5 2.5 0 0 0 4.96-.44 2.5 2.5 0 0 0 0-3.12 3 3 0 0 0 0-4.88 2.5 2.5 0 0 0 0-3.12A2.5 2.5 0 0 0 14.5 2z"/></svg>
+      
+      <text x="68" y="60" font-size="15" font-weight="bold" fill="#F8FAFC">Curezy AI<tspan fill="#22D3EE">_<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="1.0499999999999998s" repeatCount="indefinite"/></tspan></text>
+      <text x="68" y="78" font-size="11" fill="#94A3B8">AI-powered diagnostics assistant</text>
+      
+      <g transform="translate(68, 104)">
+  <rect width="52" height="18" rx="9" fill="#1E293B"/>
+  <text x="26" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">Python</text>
+</g>
+<g transform="translate(126, 104)">
+  <rect width="28" height="18" rx="9" fill="#1E293B"/>
+  <text x="14" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">AI</text>
+</g>
+<g transform="translate(160, 104)">
+  <rect width="58" height="18" rx="9" fill="#1E293B"/>
+  <text x="29" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">PyTorch</text>
+</g>
+      
+      <text x="68" y="145" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#9733;</tspan> 0<tspan fill="#475569" dx="14">updated 2mo ago</tspan></text>
+      
+      <circle cx="520" cy="90" r="27" fill="none" stroke="rgba(148,163,184,0.15)" stroke-width="9"/>
+            <circle cx="520" cy="90" r="27" fill="none" stroke="#3572A5" stroke-width="9" stroke-dasharray="161.16 8.48" stroke-dashoffset="0.00" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#89e051" stroke-width="9" stroke-dasharray="8.48 161.16" stroke-dashoffset="-161.16" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.7s" fill="freeze"/></circle>
+      <text x="520" y="94" text-anchor="middle" font-size="11" font-weight="700" fill="#F8FAFC">95%</text>
+      
+            <circle cx="401" cy="68" r="3.5" fill="#3572A5"/>
+      <text x="410" y="72" font-size="10" fill="#94A3B8">Python 95%</text>
+      <circle cx="401" cy="86" r="3.5" fill="#89e051"/>
+      <text x="410" y="90" font-size="10" fill="#94A3B8">Shell 5%</text>
+    </g>
+  </g>
+</a>
+
+
+<a href="https://github.com/GouravPatidar91/github-readme-stats" target="_blank">
+  <g opacity="0" transform="translate(5,406)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.85s" fill="freeze"/>
+    <rect width="578" height="168" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.28)">
+      <animate attributeName="stroke" values="rgba(34,211,238,0.22);rgba(34,211,238,0.5);rgba(34,211,238,0.22)" dur="4.5s" begin="0.85s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="578" height="30" rx="12" fill="#0B1222"/>
+    <rect y="18" width="578" height="12" fill="#0B1222"/>
+    <line x1="0" y1="30" x2="578" y2="30" stroke="rgba(255,255,255,0.08)"/>
+    <text x="16" y="19" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#8226;</tspan> GouravPatidar91/github-readme-stats</text>
+    <circle cx="562" cy="15" r="3.5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="5s" begin="0.85s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <svg x="16" y="44" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#EC4899" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
+      
+      <text x="68" y="60" font-size="15" font-weight="bold" fill="#F8FAFC">GitHub Readme Stats<tspan fill="#22D3EE">_<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="1.2s" repeatCount="indefinite"/></tspan></text>
+      <text x="68" y="78" font-size="11" fill="#94A3B8">Self-hosted stats card generator</text>
+      
+      <g transform="translate(68, 104)">
+  <rect width="76" height="18" rx="9" fill="#1E293B"/>
+  <text x="38" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">JavaScript</text>
+</g>
+<g transform="translate(150, 104)">
+  <rect width="52" height="18" rx="9" fill="#1E293B"/>
+  <text x="26" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">NodeJS</text>
+</g>
+<g transform="translate(208, 104)">
+  <rect width="52" height="18" rx="9" fill="#1E293B"/>
+  <text x="26" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">Vercel</text>
+</g>
+      
+      <text x="68" y="145" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#9733;</tspan> 0<tspan fill="#475569" dx="14">updated 2d ago</tspan></text>
+      
+      <circle cx="520" cy="90" r="27" fill="none" stroke="rgba(148,163,184,0.15)" stroke-width="9"/>
+            <circle cx="520" cy="90" r="27" fill="none" stroke="#f1e05a" stroke-width="9" stroke-dasharray="166.25 3.39" stroke-dashoffset="0.00" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.85s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#563d7c" stroke-width="9" stroke-dasharray="3.39 166.25" stroke-dashoffset="-166.25" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="0.85s" fill="freeze"/></circle>
+      <text x="520" y="94" text-anchor="middle" font-size="11" font-weight="700" fill="#F8FAFC">98%</text>
+      
+            <circle cx="401" cy="68" r="3.5" fill="#f1e05a"/>
+      <text x="410" y="72" font-size="10" fill="#94A3B8">JavaScript 98%</text>
+      <circle cx="401" cy="86" r="3.5" fill="#563d7c"/>
+      <text x="410" y="90" font-size="10" fill="#94A3B8">CSS 2%</text>
+    </g>
+  </g>
+</a>
+
+
+<a href="https://github.com/GouravPatidar91/GouravPatidar91" target="_blank">
+  <g opacity="0" transform="translate(597,406)">
+    <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/>
+    <rect width="578" height="168" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.28)">
+      <animate attributeName="stroke" values="rgba(34,211,238,0.22);rgba(34,211,238,0.5);rgba(34,211,238,0.22)" dur="4.5s" begin="1.0s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="578" height="30" rx="12" fill="#0B1222"/>
+    <rect y="18" width="578" height="12" fill="#0B1222"/>
+    <line x1="0" y1="30" x2="578" y2="30" stroke="rgba(255,255,255,0.08)"/>
+    <text x="16" y="19" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#8226;</tspan> GouravPatidar91/GouravPatidar91</text>
+    <circle cx="562" cy="15" r="3.5" fill="#10B981"><animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+    <g>
+      <animateTransform attributeName="transform" type="translate" values="0 0; 0 -2.5; 0 0" dur="5s" begin="1.0s" repeatCount="indefinite" calcMode="spline" keyTimes="0;0.5;1" keySplines="0.4 0 0.6 1;0.4 0 0.6 1"/>
+      <svg x="16" y="44" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#3B82F6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="4 17 10 11 4 5"/><line x1="12" y1="19" x2="20" y2="19"/></svg>
+      
+      <text x="68" y="60" font-size="15" font-weight="bold" fill="#F8FAFC">GouravPatidar91<tspan fill="#22D3EE">_<animate attributeName="opacity" values="1;0;1" dur="1.2s" begin="1.35s" repeatCount="indefinite"/></tspan></text>
+      <text x="68" y="78" font-size="11" fill="#94A3B8">My dynamic interactive GitHub profile</text>
+      
+      <g transform="translate(68, 104)">
+  <rect width="52" height="18" rx="9" fill="#1E293B"/>
+  <text x="26" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">Python</text>
+</g>
+<g transform="translate(126, 104)">
+  <rect width="34" height="18" rx="9" fill="#1E293B"/>
+  <text x="17" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">SVG</text>
+</g>
+<g transform="translate(166, 104)">
+  <rect width="58" height="18" rx="9" fill="#1E293B"/>
+  <text x="29" y="12" font-size="9" fill="#A78BFA" text-anchor="middle">Profile</text>
+</g>
+      
+      <text x="68" y="145" font-size="10" fill="#94A3B8"><tspan fill="#22D3EE">&#9733;</tspan> 1<tspan fill="#475569" dx="14">updated 5m ago</tspan></text>
+      
+      <circle cx="520" cy="90" r="27" fill="none" stroke="rgba(148,163,184,0.15)" stroke-width="9"/>
+            <circle cx="520" cy="90" r="27" fill="none" stroke="#3572A5" stroke-width="9" stroke-dasharray="101.79 67.86" stroke-dashoffset="0.00" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#ff9900" stroke-width="9" stroke-dasharray="59.38 110.27" stroke-dashoffset="-101.79" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/></circle>
+      <circle cx="520" cy="90" r="27" fill="none" stroke="#083fa6" stroke-width="9" stroke-dasharray="8.48 161.16" stroke-dashoffset="-161.16" transform="rotate(-90 520 90)" opacity="0"><animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.0s" fill="freeze"/></circle>
+      <text x="520" y="94" text-anchor="middle" font-size="11" font-weight="700" fill="#F8FAFC">60%</text>
+      
+            <circle cx="401" cy="68" r="3.5" fill="#3572A5"/>
+      <text x="410" y="72" font-size="10" fill="#94A3B8">Python 60%</text>
+      <circle cx="401" cy="86" r="3.5" fill="#ff9900"/>
+      <text x="410" y="90" font-size="10" fill="#94A3B8">SVG 35%</text>
+      <circle cx="401" cy="104" r="3.5" fill="#083fa6"/>
+      <text x="410" y="108" font-size="10" fill="#94A3B8">Markdown 5%</text>
+    </g>
+  </g>
+</a>
+
+</svg>

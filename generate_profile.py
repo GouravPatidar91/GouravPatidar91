@@ -367,7 +367,7 @@ def process_template_svg(template_path, new_dots, output_path, is_dark):
     svg_content_new = replace_tspan_row("Core.Database", "PostgreSQL, MongoDB", svg_content_new)
     svg_content_new = replace_tspan_row("Core.Infra", "Docker, AWS, Git", svg_content_new)
     
-    svg_content_new = replace_tspan_row("Grid.Mail", "gouravpatidar91@gmail.com", svg_content_new)
+    svg_content_new = replace_tspan_row("Grid.Mail", "business.gouravpatel@gmail.com", svg_content_new)
     svg_content_new = replace_tspan_row("Grid.Portfolio", "coming soon", svg_content_new)
     svg_content_new = replace_tspan_row("Grid.LinkedIn", "gourav-patidar", svg_content_new)
     svg_content_new = replace_tspan_row("Grid.GitHub", "@GouravPatidar91", svg_content_new)
@@ -383,7 +383,7 @@ def process_template_svg(template_path, new_dots, output_path, is_dark):
     
     # Replace email in title bar and other specific email mentions
     # e.g., arifhasan.connect@gmail.com -> gouravpatidar91@gmail.com
-    svg_content_new = svg_content_new.replace("arifhasan.connect@gmail.com", "gouravpatidar91@gmail.com")
+    svg_content_new = svg_content_new.replace("arifhasan.connect@gmail.com", "business.gouravpatel@gmail.com")
     
     # Replace username mentions in other links or titles if any
     svg_content_new = svg_content_new.replace("Arif Hasan", "Gourav Patidar")
