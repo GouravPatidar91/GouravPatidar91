@@ -369,7 +369,7 @@ def process_template_svg(template_path, new_dots, output_path, is_dark):
     
     svg_content_new = replace_tspan_row("Grid.Mail", "business.gouravpatel@gmail.com", svg_content_new)
     svg_content_new = replace_tspan_row("Grid.Portfolio", "coming soon", svg_content_new)
-    svg_content_new = replace_tspan_row("Grid.LinkedIn", "gourav-patidar", svg_content_new)
+    svg_content_new = replace_tspan_row("Grid.LinkedIn", "gourav-patidar-6345632b9", svg_content_new)
     svg_content_new = replace_tspan_row("Grid.GitHub", "@GouravPatidar91", svg_content_new)
     
     # We replace Facebook with a placeholder or something else, or if the user doesn't use Facebook, let's replace Facebook with X/Twitter
